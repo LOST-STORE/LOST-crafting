@@ -1,18 +1,18 @@
-[Crafting table | طاولة التصنيع]
-مميزات السكربت
+**[Crafting table | طاولة التصنيع]**
 
-#-شكل جديد ومميز
+```مميزات السكربت```
 
-#- لا تزال لا تزال للأسلحة
+> `#-` **شكل جديد ومميز**
 
-#- الجدول الزمني الخاص في ادوات الاجرام و غيره
+> `#-` ** طاولة تصنيع خاصة للأسلحة**
 
-المتجر المفقود
+> `#-` **طاولة تصنيع خاصة في ادوات الاجرام و غيره**
 
-الديسكورد: https://discord.gg/NQ
 
-المعاينة: https://cdn.discordapp.com/attachments/1103985235437301822/1105608876230967316/image.png
+Discord: https://discord.gg/NQ
 
-المعاينة: https://cdn.discordapp.com/attachments/1103985235437301822/1105608876541353984/image.png
+Preview: https://cdn.discordapp.com/attachments/1103985235437301822/1105608876230967316/image.png
 
-موقع الكتروني: https://lost-store.sellix.io/
+Preview: https://cdn.discordapp.com/attachments/1103985235437301822/1105608876541353984/image.png
+
+Website: https://lost-store.sellix.io/
